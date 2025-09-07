@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vaishbot",
+  "private_key_id": "08d8e7a7d3e227260f6127c4fc278875d7760e2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxoi5UpkROlcU4\nde+Cjz3SiZiUCxAYkv7DYBqwh3drTus4mpU+A62pSQI1jfXWFEf5lF/xei4llbZv\nIEbvO+m+I3nZbqprBS2MK89reXlWGffrxcGeKLwnMUJNTG86+CPlMZ+oa9XNPhRY\np/UcuFf76OfPy8jiEK4d5svzFFKj+zAVQpSQGbvvUNXAxQlqeG1hL19buqsibXi2\nXm2QjfREGrSuXsRmz1SohJD/Jq+bPGLBPUveNHqnaxMtIpS0Y6priBzFTC3piIWu\nPrw63UNvHMXKXRdnFXOXSjxp270FF40YItP6A6LyBEAAz17oyEOWhepoibLlBYXL\nHwiXbHO/AgMBAAECggEAU1AvzsAU9Y7Fa4/VADVS17Z1e6ocqIn5N4WRvw4qcogX\nRvsp2GY9Q1Lc2GV20iu8/lAbF9UoY7RuVnybCIXfQbC967896ugIzt+Vb2EQCdQw\nNcMQ5q9QYEl4QW0CFnRf0ZWOvp2lL5hYTqSoEApeKea5Ivr/gxgzsg6XxbDYedQD\nZ7SYJLS8afErTxzHtiKWtNzyUXWTu6tJzx8qbpXhUmRJ7KtrjtFM7pYr7XxcGJAz\nAtg7PHsXg+E6met7iw42f6O1b2Z73x2YyB7fnaynViXEmmaUTUr4L7DIzU5q/aMz\nJxQGSaWSJWu+13p+c4N0z0bHEEquHkGjnKsncL9BwQKBgQDq10xNA+J+SRkqWkd6\nC8Y2rCGTnhOotz8PxdQQsFobhkCp75Qf2toYi+GOhy+LUw8vSLcx1ntB5x5pJIn0\nEf2t8/TPMTNwJC6cRFOZBek/x+ATGnVU9PAt5fNC5B+caOcJ4Y4mFN7sgsOXkQig\ngEZmc1ZJ5NWWcmJIUHG2dH81kQKBgQDBo16JTGES2h+02/AE+gk0qbrmuL1NmPqx\nz2banvArn8XI17L4rcOqe0FlWMxFNHgPjMBqtdXfIQDWg71xlz2DfTytnOzsTAbY\nOeZGoauqNzXP/DeoKY+UuWkG1Jygb0wsT9Kl89YCrn/vc5Rj+lKWvT/MS+v1VF/D\nnV3zJJYsTwKBgQDMHhQ4wI6l211fPZbw0rkXHigVCYnm1Fegmv+G/fFkCR29Vvq1\ncWCtgy+q1X+SpsAFBjwMunLpxjvdgZ/Sn6yR/QAk8ovWBezpcE4FLGkfQdhWYmHn\nVPpJupvk4SlEpr1iDkWiffOBOOtOmwYXk0cdl1RB5/9pw8P/PMSJpNpIsQKBgQCD\nUOMfgSijvECcSjrvZRExIZmaNdZK9V+tjdVWlUqSivt6RK0eb9itmIC01g9RL0/s\nW6txsnajpqIG17h1e/c/YILxyeXyKWzK3hkH9UORX3ei4IxuAiFY3pQXCcBeHJwv\nwMI9wKp1jxk7rcoIMw4nI5hMV4BhEyMOaX35Eeq1iQKBgEqL4LVoBN97cgq61zei\nh8ZFycpvunNSZ1VtSqCdPOKd8rhcWRKEI6goApcB79hRsCyx5ktYeOO7pNfno1h7\nfd9YY6qMYlKtvYpI6dYEqYBrqD6py+F3RIDvEiYju+UJAtolB7dw2aenS2dOi3e6\nI0gbvRlDUCI6pc8Fs9uouBrv\n-----END PRIVATE KEY-----\n",
+  "client_email": "vaishbot-service@vaishbot.iam.gserviceaccount.com",
+  "client_id": "103427703449839254560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vaishbot-service%40vaishbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,14 @@
+streamlit
+sounddevice
+numpy
+scipy
+requests
+simpleaudio
+gspread
+oauth2client
+beautifulsoup4
+gTTS
+fastapi
+uvicorn
+whisper
+torch
